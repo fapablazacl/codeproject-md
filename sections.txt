@@ -1,0 +1,123 @@
+# CodeProject KB sections to crawl. Lines starting with '#' are ignored.
+# Empty/missing sections are tolerated by stage 1 (just yield 0 rows).
+
+# --- Native UI controls (Win32 widgets) ---
+KB/dialog
+KB/buttons
+KB/edit
+KB/combobox
+KB/listctrl
+KB/listview
+KB/treectrl
+KB/treeview
+KB/menus
+KB/tabs
+KB/toolbars
+KB/statusbar
+KB/progress
+KB/sliders
+KB/scroll
+KB/header
+KB/datetime
+KB/spin
+KB/animation
+KB/property
+KB/miscctrl
+KB/splitter
+KB/richedit
+KB/tooltip
+KB/dock
+KB/docking
+KB/gridctrl
+KB/trayicon
+KB/customcontrols
+
+# --- Win32 platform / system / runtime ---
+KB/shell
+KB/win32
+KB/winsdk
+KB/system
+KB/threads
+KB/IPC
+KB/dll
+KB/hook
+KB/registry
+KB/inifile
+KB/exception
+KB/debug
+KB/profile
+KB/pipes
+
+# --- C/C++ / class libraries ---
+KB/cpp
+KB/cppext
+KB/atl
+KB/MFC
+KB/STL
+KB/WTL
+KB/COM
+
+# --- Graphics / drawing ---
+KB/GDI
+KB/graphics
+KB/gdiplus
+KB/openGL
+KB/DirectX
+KB/drawing
+KB/image
+KB/imaging
+KB/fonts
+
+# --- Files / parsing / data ---
+KB/files
+KB/file
+KB/parsing
+KB/regexp
+KB/string
+KB/strings
+KB/datatypes
+KB/archives
+
+# --- Multimedia / I/O ---
+KB/audio-video
+KB/multimedia
+KB/clipboard
+KB/dragdrop
+KB/printing
+KB/directshow
+
+# --- Networking ---
+KB/network
+KB/IP
+KB/winhttp
+KB/sockets
+KB/tcpip
+
+# --- Drivers / kernel / hardware ---
+KB/winddk
+KB/drivers
+KB/kernel
+KB/wmi
+KB/syssec
+KB/hardware
+KB/usb
+KB/serial
+
+# --- Help / install / library ---
+KB/winhelp
+KB/help
+KB/install
+KB/setup
+KB/library
+
+# --- Security / interop ---
+KB/security
+KB/crypto
+KB/interop
+KB/pinvoke
+
+# --- Misc Windows ---
+KB/applications
+KB/architecture
+KB/tips
+KB/recipes

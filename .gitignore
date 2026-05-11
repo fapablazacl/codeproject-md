@@ -1,0 +1,6 @@
+output/
+test_out/
+failures.csv
+__pycache__/
+*.pyc
+.venv/
